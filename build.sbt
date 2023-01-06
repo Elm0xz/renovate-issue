@@ -6,7 +6,7 @@ scalaVersion := "2.12.17"
 
 val jacksonVersion = "2.13.4"
 val jacksonDatabindVersion = "2.13.4.2"
-val scalaTestPlusMockitoVersion = "3.2.14.0"
+val scalaTestPlusMockitoVersion = "3.2.15.0"
 
 libraryDependencies ++= Seq(
   "com.fasterxml.jackson.module" % "jackson-module-parameter-names" % jacksonVersion,
